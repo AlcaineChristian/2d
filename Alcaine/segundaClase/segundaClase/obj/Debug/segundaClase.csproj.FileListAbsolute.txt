@@ -1,0 +1,7 @@
+D:\Alcaine\segundaClase\segundaClase\bin\Debug\segundaClase.exe.config
+D:\Alcaine\segundaClase\segundaClase\bin\Debug\segundaClase.exe
+D:\Alcaine\segundaClase\segundaClase\bin\Debug\segundaClase.pdb
+D:\Alcaine\segundaClase\segundaClase\obj\Debug\segundaClase.csprojAssemblyReference.cache
+D:\Alcaine\segundaClase\segundaClase\obj\Debug\segundaClase.csproj.CoreCompileInputs.cache
+D:\Alcaine\segundaClase\segundaClase\obj\Debug\segundaClase.exe
+D:\Alcaine\segundaClase\segundaClase\obj\Debug\segundaClase.pdb
