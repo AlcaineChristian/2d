@@ -8,8 +8,8 @@ namespace ConsoleApp6
 {
     class Alumno
     {
-        byte nota1;
-        byte nota2;
+        float nota1;
+        float nota2;
         float notaFinal;
         public string apellido;
         public int legajo;
@@ -32,13 +32,13 @@ namespace ConsoleApp6
 
         public void CalcularFinal()
         {
-            if(this.nota1>4 && this.nota2>4 )
+            if(this.nota1>=4 && this.nota2>=4 )
             {
                 this.notaFinal = (this.nota1 + this.nota2) / 2;
             }
 
         }
-        public void Estudiar(byte notaUno, byte notaDos)
+        public void Estudiar(float notaUno, float notaDos)
         {
             this.nota1 = notaUno;
             this.nota2 = notaDos;
